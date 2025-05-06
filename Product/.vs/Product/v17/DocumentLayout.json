@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chanz\\Desktop\\W11D3\\Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4AE5BC-0B32-4559-8A8D-7D38CF10D934}|Product\\Product.csproj|c:\\users\\chanz\\desktop\\w11d3\\product\\product\\services\\productsorterhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4AE5BC-0B32-4559-8A8D-7D38CF10D934}|Product\\Product.csproj|solutionrelative:product\\services\\productsorterhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4AE5BC-0B32-4559-8A8D-7D38CF10D934}|Product\\Product.csproj|c:\\users\\chanz\\desktop\\w11d3\\product\\product\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4AE5BC-0B32-4559-8A8D-7D38CF10D934}|Product\\Product.csproj|solutionrelative:product\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4AE5BC-0B32-4559-8A8D-7D38CF10D934}|Product\\Product.csproj|c:\\users\\chanz\\desktop\\w11d3\\product\\product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4AE5BC-0B32-4559-8A8D-7D38CF10D934}|Product\\Product.csproj|solutionrelative:product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4AE5BC-0B32-4559-8A8D-7D38CF10D934}|Product\\Product.csproj|c:\\users\\chanz\\desktop\\w11d3\\product\\product\\product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF4AE5BC-0B32-4559-8A8D-7D38CF10D934}|Product\\Product.csproj|solutionrelative:product\\product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chanz\\Desktop\\W11D3\\Product\\Product\\Program.cs",
+              "RelativeDocumentMoniker": "Product\\Program.cs",
+              "ToolTip": "C:\\Users\\chanz\\Desktop\\W11D3\\Product\\Product\\Program.cs",
+              "RelativeToolTip": "Product\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:42:56.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductSorterHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\chanz\\Desktop\\W11D3\\Product\\Product\\Services\\ProductSorterHostedService.cs",
+              "RelativeDocumentMoniker": "Product\\Services\\ProductSorterHostedService.cs",
+              "ToolTip": "C:\\Users\\chanz\\Desktop\\W11D3\\Product\\Product\\Services\\ProductSorterHostedService.cs",
+              "RelativeToolTip": "Product\\Services\\ProductSorterHostedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:42:21.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.csproj",
+              "DocumentMoniker": "C:\\Users\\chanz\\Desktop\\W11D3\\Product\\Product\\Product.csproj",
+              "RelativeDocumentMoniker": "Product\\Product.csproj",
+              "ToolTip": "C:\\Users\\chanz\\Desktop\\W11D3\\Product\\Product\\Product.csproj",
+              "RelativeToolTip": "Product\\Product.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T16:42:03.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\chanz\\Desktop\\W11D3\\Product\\Product\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Product\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\chanz\\Desktop\\W11D3\\Product\\Product\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Product\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:41:01.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
